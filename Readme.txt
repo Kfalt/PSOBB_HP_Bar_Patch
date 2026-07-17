@@ -23,3 +23,7 @@
 │   Github Author: https://github.com/fuzziqersoftware/                                                      │
 │                                                                                                            │
 └────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+<p align="center">
+  <img src="Example HPbar.PNG" alt="HP Bar Preview" width="700">
+</p>
