@@ -8,7 +8,7 @@
 │                               Special Thanks to: ( Fuzziqer Software )                                     │
 │                                                                                                            │
 │  ────────────────────────────────────────────────────────────────────────────────────────────────────────  │
-│                              Creating this fix took me a long time.                                        │
+│                                Creating this fix took me a long time.                                      │
 │   Please respect the original source code and do not take full credit for this fix. This C++ fix adheres   │
 │   to the logic of the ASM patch by 99%; it does not account for the icons of status effects applied to     │
 │   enemies.Out of respect, please credit the author and acknowledge the source of this project.             │
@@ -16,9 +16,10 @@
 │                                                                                                            │
 │   This patch is based on the ASM patch created by Fuzziquer; please respect his work for ethical reasons.  │
 │                                                                                                            │
-│   GitHub: https://github.com/fuzziqersoftware/newserv/blob/master/system/client-functions/EnemyHPBarsBB.s  │
+│   Source : https://github.com/fuzziqersoftware/newserv/blob/master/system/client-functions/EnemyHPBarsBB.s │
 │                                                                                                            │
 │   Name: ( Martin Michelsen )                                                                               │
 │   Aka: ( Fuzziqe Software )                                                                                │
+│   Github Author: https://github.com/fuzziqersoftware/                                                      │
 │                                                                                                            │
 └────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
