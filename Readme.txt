@@ -23,4 +23,3 @@
 │   Github Author: https://github.com/fuzziqersoftware/                                                      │
 │                                                                                                            │
 └────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-![Description de l'image](Example_HP_BAR.PNG)
