@@ -16,10 +16,11 @@
 //   │                                                                                                            │
 //   │   This patch is based on the ASM patch created by Fuzziquer; please respect his work for ethical reasons.  │
 //   │                                                                                                            │
-//   │   GitHub: https://github.com/fuzziqersoftware/newserv/blob/master/system/client-functions/EnemyHPBarsBB.s  │
+//   │   Source: https://github.com/fuzziqersoftware/newserv/blob/master/system/client-functions/EnemyHPBarsBB.s  │
 //   │                                                                                                            │
 //   │   Name: ( Martin Michelsen )                                                                               │
 //   │   Aka: ( Fuzziqe Software )                                                                                │
+//   │   Github Author: https://github.com/fuzziqersoftware/                                                      │
 //   │                                                                                                            │
 //   └────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
