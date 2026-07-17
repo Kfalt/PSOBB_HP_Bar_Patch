@@ -4,8 +4,8 @@
 //   │                                                                                                            │
 //   │                                  Patch DLL Created By: ( Kfalt )                                           │
 //   │                                  Created: ( 02/07/2026 - 03:39 )                                           │
-//   │                                                                                                            │
-//   │                               Special Thanks to: ( Fuzziqer Software )                                     │
+//   │                                  Server Discord: http://discord.gg/UGzq7Vkrgx                              │
+//   │                                  Special Thanks to: ( Fuzziqer Software )                                  │
 //   │                                                                                                            │
 //   │  ────────────────────────────────────────────────────────────────────────────────────────────────────────  │
 //   │                              Creating this fix took me a long time.                                        │
