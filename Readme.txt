@@ -12,7 +12,7 @@
 │                              Creating this fix took me a long time.                                        │
 │   Please respect the original source code and do not take full credit for this fix. This C++ fix adheres   │
 │    to the logic of the ASM patch by 99%; it does not account for the icons of status effects applied to    │
-│   enemies.Out of respect, please credit the author and acknowledge the source of this project.             │
+│       enemies.Out of respect, please credit the author and acknowledge the source of this project.         │
 │  ────────────────────────────────────────────────────────────────────────────────────────────────────────  │
 │                                                                                                            │
 │   This patch is based on the ASM patch created by Fuzziquer; please respect his work for ethical reasons.  │
