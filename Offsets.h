@@ -35,8 +35,8 @@ namespace Offset
     // Windows HP Bar Memory Size
     constexpr DWORD FlagClearPatch = 0x007318DD;
     constexpr DWORD WindowSizeLoad = 0x00731C44;
-    constexpr DWORD WindowSizeInit = 0x00731F2A;
-    constexpr DWORD WindowSizeUpdate = 0x00731BAF;
+   // constexpr DWORD WindowSizeInit = 0x00731F2A; // Not used for the moment...
+   // constexpr DWORD WindowSizeUpdate = 0x00731BAF; // Not used for the moment...
     constexpr DWORD WindowWidthPointer = 0x009710B8;
     constexpr DWORD WindowHeight1 = 0x009F2DA4;
     constexpr DWORD WindowHeight2 = 0x009F2DD4;
